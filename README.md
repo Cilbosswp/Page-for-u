@@ -9,5 +9,5 @@ I'm has been build Simple Valentine Day Html Script, free and use for learn.
  
 # Let's connect with me!
 <p>
-    <a href="https://whatsapp.com/wa.me/6281352052375?text=hallo" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-@Dinn-green" /></a>
+    <a href="https://api.whatsapp.com/send/?phone=6281352052375&text=hallo&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-@Dinn-green" /></a>
 </p>
