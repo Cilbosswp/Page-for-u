@@ -5,7 +5,7 @@ I'm has been build Simple Valentine Day Html Script, free and use for learn.
 <a href="https://cilbosswp.github.io/Page-for-you/">https://cilbosswp.github.io/Page-for-you/</a>
 
 # ScreenShoot
- <img src="https://raw.githubusercontent.com/Cilbosswp/Page-for-you/main/Screenshot.JPG">
+ <img src="https://raw.githubusercontent.com/wafarifki/ValentineDayScript/main/Screenshot.JPG">
  
 # Let's connect with me!
 <p>
